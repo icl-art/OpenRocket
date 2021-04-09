@@ -5,4 +5,4 @@ Nathanael only learnt how to use GitHub recently, so excuse the terrible organis
 
 Stability sucks.
 
-I'm not sure .ork files can be merged like normal code... be careful making changes
+Git can't automatically merge .ork files - take care when making changes not to overwrite new files.
