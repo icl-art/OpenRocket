@@ -1,6 +1,6 @@
 # OpenRocket
 OpenRocket simulations version control
 
-As of March 2021, a new directory should be used for each rocket to make version control easier
+Nathanael only learnt how to use GitHub recently, so excuse the terrible organisaton.
 
-GitHub doesn't really like .ork files...
+Stability sucks.
