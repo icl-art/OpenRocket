@@ -10,4 +10,5 @@ Unchanged OpenRocket files of rockets that have flown.
     - Successfully tested minimum diameter recovery system
     - Validated OpenRocket sims for low mach
     - Tested logistics setup
+    - RUD upon landing, due to shock cord coming loose from eye bolt
     
