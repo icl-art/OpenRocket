@@ -16,7 +16,7 @@ ART's first record attempt; apogee ~2884m (record: 2788m)
 
 I-class motor
 
-**Design under review - mass evaluation needed**
+**Design under review**
 
 ## ASCENSION
 'The big one'; apogee ~ 5898m (record: 5716m)
