@@ -17,8 +17,6 @@ ART's first record attempt; apogee ~3000m (record: 2788m)
 
 I-class motor
 
-**Design finalisation in progress**
-
 ## ASCENSION
 'The big one'; apogee ~ 5898m (record: 5716m)
 
@@ -29,7 +27,7 @@ Unchanged OpenRocket files of rockets that have flown.
 
 Contents:
 1) ASTRA 11.04.2021 (RUD upon landing)
-1) ASTRA 13.06.2021
+1) ASTRA 13.06.2021 (File may be inaccurate)
 
 ## APEX Fin Planforms
 Selection of APEX .ork files, used when optimising fin planform
