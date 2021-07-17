@@ -1,7 +1,7 @@
 # OpenRocket
 OpenRocket simulations version control
 
-**Git can't automatically merge .ork files - take care when making changes not to overwrite new files.**
+**Git can't automatically merge .ork files - take care when making changes not to overwrite edits.**
 
 ## ASTRA
 ART's first rocket flight!
