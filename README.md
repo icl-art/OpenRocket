@@ -13,12 +13,15 @@ Flights:
 2) Sunday 13th June 2021; 523m apogee. Mostly successful
 
 ## APEX
-ART's first record attempt; apogee ~3000m (record: 2788m)
+ART's first record attempt; apogee ~2900m (record: 2804m)
 
 I-class motor
 
+Flights:
+1) Saturday 24th July 2021... coming soon!
+
 ## ASCENSION
-'The big one'; apogee ~ 5898m (record: 5716m)
+ART's even higher record attempt; apogee ~ 5898m (record: 5716m)
 
 L-class motor
 
