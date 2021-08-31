@@ -13,24 +13,26 @@ Flights:
 2) Sunday 13th June 2021; 523m apogee. Mostly successful
 
 ## APEX
-ART's first record attempt; apogee ~2900m (record: 2804m)
+ART's first record attempt
 
-I-class motor
+I-class motor; apogee ~2850m (record: 2804m)
 
 Flights:
-1) Saturday 24th July 2021... coming soon!
+1) Sunday 29th August 2021; **Scrubbed**. Avionics failure
+2) Rescheduling soon...
 
 ## ASCENSION
-ART's even higher record attempt; apogee ~ 5898m (record: 5716m)
+ART's even higher record attempt
 
-L-class motor
+L-class motor, apogee ~ 5890m (record: 5716m)
 
 ## Rockets that flew
 Unchanged OpenRocket files of rockets that have flown.
 
 Contents:
 1) ASTRA 11.04.2021 (RUD upon landing)
-1) ASTRA 13.06.2021 (File may be inaccurate)
+2) ASTRA 13.06.2021 (File may be inaccurate)
+3) APEX 29.08.2021 (Scrubbed)
 
 ## APEX Fin Planforms
 Selection of APEX .ork files, used when optimising fin planform

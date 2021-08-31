@@ -18,3 +18,10 @@ Unchanged OpenRocket files of rockets that have flown.
     - Successfully verified custom avionics system for APEX
     - Small structural failure upon landing (less severe than ASTRA Mk I)
     - **OpenRocket file may not accurately represent the launched rocket**
+    
+3) APEX Mk.1 | 29.08.2021 (SARA) **No Launch**
+    - Simplified verification model used prior to launch attempts
+    - Launch scrubbed due to LiPo failure
+    - Successfully assembled APEX and verified modelling
+    - Several improvements discussed with SARA members
+    - Custom avionics system tested, more spare components should be transported to future launches
